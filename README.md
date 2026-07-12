@@ -1,2 +1,2 @@
 # SLP
-San Juan Raya IDSP Project
+Armadillo IDSP Project
